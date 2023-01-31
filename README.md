@@ -21,6 +21,4 @@
 
 ## Мои контакты
 <a href="https://t.me/karinakud" target="_blank">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
-<a href="k.d.kudrik@gmail.com" target="_blank">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-
-почта: k.d.kudrik@gmail.com
+![<k.d.kudrik@gmail.com>](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
