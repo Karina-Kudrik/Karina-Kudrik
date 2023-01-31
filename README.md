@@ -1,4 +1,4 @@
-# <h1 align="center">Всем привет! Меня зовут <a href="https://daniilshat.ru/" target="_blank">Карина</a><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+# <h1 align="center">Всем привет! Меня зовут Карина <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Я начинающий фронтенд-разработчик</h3>
 
 ## О себе:
@@ -20,6 +20,7 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ## Мои контакты
+<button href='https://t.me/karinakud' target="_blank">Telegram</button>
 telegram: https://t.me/karinakud
 
 почта: k.d.kudrik@gmail.com
