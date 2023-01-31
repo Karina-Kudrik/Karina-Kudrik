@@ -20,7 +20,6 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ## Мои контакты
-<button href='https://t.me/karinakud' target="_blank">Telegram</button>
-telegram: https://t.me/karinakud
+![https://t.me/karinakud](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
 почта: k.d.kudrik@gmail.com
